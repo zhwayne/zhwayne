@@ -7,6 +7,5 @@
 - 📚 Swift & iOS.
 - 🌱 I’m currently learning Flutter, Python.
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhwayne&hide=CSS,shell,HTML,Makefile" width="40%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhwayne&theme=vue&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhwayne&hide=CSS,shell,HTML,Makefile&langs_count=6" width="34%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhwayne&show_icons=true&theme=vue)](https://github.com/zhwayne/github-readme-stats" width="60%"/>
