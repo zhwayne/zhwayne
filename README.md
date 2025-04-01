@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m an iOS developer in Hanzhou.
+- 👨🏻‍💻 I’m an iOS developer.
 - 📚 Swift & iOS.
 - 🌱 I’m currently learning SwiftUI, Flutter and Python.
 
